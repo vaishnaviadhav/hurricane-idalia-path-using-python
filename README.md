@@ -8,4 +8,6 @@ Position history for tropical cyclone Idalia (csv): https://flhurricane.com/cycl
 
 US map geospatial data (geojson): https://eric.clst.org/tech/usgeojson/
 
+![image](https://github.com/vaishnaviadhav/hurricane-idalia-path-using-python/assets/71253152/d504136b-ff3d-4650-bd75-033089f13ca7)
+
 Refer link: https://www.datacamp.com/tutorial/geospatial-data-python
