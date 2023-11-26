@@ -1,0 +1,58 @@
+AdvisoryNumber,Date,Lat,Long,Wind,Pres,Movement,Type,Name,Received,Forecaster
+1,08/26/2023 17:00,21.1,81.6,30,1006,Stationary,Tropical Depression,TEN,08/26/2023 16:54,Pasch
+1A,08/26/2023 20:00,21.2,86.2,30,1005,NW at 1 MPH (315 deg),Tropical Depression,TEN,08/26/2023 19:51,Berg
+2,08/26/2023 23:00,21.1,86.4,35,1005,SW at 2 MPH (230 deg),Tropical Depression,TEN,08/26/2023 22:51,Berg
+2A,08/27/2023 02:00,20.7,86.8,35,1001,SW at 5 MPH (230 deg),Tropical Depression,TEN,08/27/2023 02:11,Blake
+3,08/27/2023 05:00,20.1,86.8,35,1001,S at 5 MPH (180 deg),Tropical Depression,TEN,08/27/2023 05:12,Blake
+3A,08/27/2023 08:00,19.7,86.3,35,1001,SE at 5 MPH (135 deg),Tropical Depression,TEN,08/27/2023 08:02,Pasch
+4,08/27/2023 11:00,19.9,85.8,35,1001,E at 2 MPH (90 deg),Tropical Depression,TEN,08/27/2023 11:03,Pasch
+4S,08/27/2023 11:00,19.9,85.8,40,1001,E at 3 MPH (90 deg),Tropical Storm,Idalia,08/27/2023 11:03,Pasch
+4A,08/27/2023 14:00,20,85.8,40,996,N at 2 MPH (10 deg),Tropical Storm,Idalia,08/27/2023 13:47,Pasch
+5,08/27/2023 17:00,20.1,85.5,40,995,NE at 3 MPH (40 deg),Tropical Storm,Idalia,08/27/2023 16:57,Pasch
+5A,08/27/2023 20:00,20.1,85.4,45,995,ENE at 3 MPH (70 deg),Tropical Storm,Idalia,08/27/2023 20:03,Berg
+6...CORREC,08/27/2023 23:00,19.8,85.3,60,992,Stationary,Tropical Storm,Idalia,08/27/2023 23:06,Berg
+6A,08/28/2023 02:00,19.7,85.3,60,990,Stationary,Tropical Storm,Idalia,08/28/2023 02:02,Blake
+7,08/28/2023 05:00,20.1,85.2,65,989,N at 7 MPH (360 deg),Tropical Storm,Idalia,08/28/2023 04:59,Blake
+7A,08/28/2023 08:00,20.6,85.2,65,989,N at 8 MPH (360 deg),Tropical Storm,Idalia,08/28/2023 08:03,Brown
+8,08/28/2023 11:00,20.8,85.2,65,990,N at 8 MPH (360 deg),Tropical Storm,Idalia,08/28/2023 11:02,Brown
+8A,08/28/2023 14:00,21.2,85.1,70,987,N at 8 MPH (360 deg),Tropical Storm,Idalia,08/28/2023 14:09,Brown
+9,08/28/2023 17:00,21.4,85.1,70,987,N at 8 MPH (360 deg),Tropical Storm,Idalia,08/28/2023 16:54,Brown
+9A,08/28/2023 20:00,21.7,85.1,70,983,N at 8 MPH (360 deg),Tropical Storm,Idalia,08/28/2023 19:59,Pasch
+10,08/28/2023 23:00,22,85,70,983,N at 8 MPH (10 deg),Tropical Storm,Idalia,08/28/2023 23:09,Pasch
+10A,08/29/2023 02:00,22.6,85,70,983,N at 8 MPH (10 deg),Tropical Storm,Idalia,08/29/2023 02:03,Blake
+11,08/29/2023 05:00,23.1,85,75,981,N at 14 MPH (360 deg),Hurricane,Idalia,08/29/2023 05:09,Blake
+11A,08/29/2023 08:00,23.8,84.8,80,977,N at 14 MPH (5 deg),Hurricane,Idalia,08/29/2023 07:54,Berg
+12,08/29/2023 11:00,24.6,84.8,85,976,N at 14 MPH (5 deg),Hurricane,Idalia,08/29/2023 10:59,Berg
+12A,08/29/2023 14:00,25.2,84.9,90,974,N at 15 MPH (360 deg),Hurricane,Idalia,08/29/2023 13:47,Berg
+13,08/29/2023 17:00,26.1,84.8,100,972,N at 16 MPH (360 deg),Hurricane,Idalia,08/29/2023 17:00,Berg
+13A,08/29/2023 20:00,26.9,84.7,105,965,N at 16 MPH (10 deg),Hurricane,Idalia,08/29/2023 20:00,Pasch
+14,08/29/2023 23:00,27.7,84.5,110,958,N at 18 MPH (10 deg),Hurricane,Idalia,08/29/2023 23:06,Pasch
+15...CORRE,08/30/2023 05:00,29.1,84.1,130,940,NNE at 18 MPH (25 deg),Hurricane,Idalia,08/30/2023 07:46,Blake
+15A,08/30/2023 08:00,29.9,83.5,120,950,NNE at 18 MPH (20 deg),Hurricane,Idalia,08/30/2023 08:02,Berg
+16,08/30/2023 11:00,30.6,83.2,90,971,NNE at 20 MPH (30 deg),Hurricane,Idalia,08/30/2023 10:54,Berg
+16A,08/30/2023 14:00,31.4,82.5,75,981,NE at 20 MPH (35 deg),Hurricane,Idalia,08/30/2023 14:00,Berg
+17,08/30/2023 17:00,32.2,81.7,70,984,NE at 21 MPH (35 deg),Tropical Storm,Idalia,08/30/2023 16:54,Berg
+17A,08/30/2023 20:00,32.7,80.9,65,985,NE at 21 MPH (35 deg),Tropical Storm,Idalia,08/30/2023 19:54,Pasch
+18,08/30/2023 23:00,33,80,60,987,NE at 21 MPH (45 deg),Tropical Storm,Idalia,08/30/2023 22:54,Pasch
+18A,08/31/2023 02:00,33.5,79.1,60,991,NE at 21 MPH (55 deg),Tropical Storm,Idalia,08/31/2023 02:00,Brown
+19,08/31/2023 05:00,33.6,78,60,991,ENE at 21 MPH (75 deg),Tropical Storm,Idalia,08/31/2023 04:47,Brown
+19A,08/31/2023 08:00,33.7,77,60,990,ENE at 20 MPH (75 deg),Tropical Storm,Idalia,08/31/2023 08:06,Berg
+20,08/31/2023 11:00,33.6,75.8,60,992,E at 20 MPH (90 deg),Tropical Storm,Idalia,08/31/2023 11:12,Berg
+20A,08/31/2023 14:00,33.6,74.8,65,994,E at 20 MPH (90 deg),Tropical Storm,Idalia,08/31/2023 13:51,Berg
+21,08/31/2023 17:00,33.5,73.5,65,994,E at 21 MPH (90 deg),Post-Tropical Cyclone,Idalia,08/31/2023 17:00,Berg
+21A,08/31/2023 20:00,33.4,72.2,65,994,E at 21 MPH (90 deg),Post-Tropical Cyclone,Idalia,08/31/2023 19:51,Cangialosi
+22,08/31/2023 23:00,33.1,71.5,65,996,E at 23 MPH (95 deg),Post-Tropical Cyclone,Idalia,08/31/2023 22:57,Cangialosi
+22A,09-01-2023 02:00,32.7,70.6,65,996,E at 20 MPH (100 deg),Post-Tropical Cyclone,Idalia,09-01-2023 02:00,Brown
+23,09-01-2023 05:00,32.6,69.8,60,998,ESE at 16 MPH (110 deg),Post-Tropical Cyclone,Idalia,09-01-2023 04:56,Brown
+23A,09-01-2023 08:00,32.3,69,60,998,ESE at 16 MPH (110 deg),Post-Tropical Cyclone,Idalia,09-01-2023 07:42,Berg
+24,09-01-2023 11:00,31.9,67.9,60,998,ESE at 17 MPH (110 deg),Post-Tropical Cyclone,Idalia,09-01-2023 10:44,Berg
+24A,09-01-2023 14:00,31.7,67.2,50,1000,ESE at 17 MPH (110 deg),Post-Tropical Cyclone,Idalia,09-01-2023 13:51,Berg
+25,09-01-2023 17:00,32,66.5,50,1000,ESE at 15 MPH (105 deg),Post-Tropical Cyclone,Idalia,09-01-2023 16:47,Berg
+25A,09-01-2023 20:00,31.9,66,50,1000,ESE at 15 MPH (105 deg),Post-Tropical Cyclone,Idalia,09-01-2023 19:32,Cangialosi
+26,09-01-2023 23:00,31.8,65.3,50,1000,E at 16 MPH (100 deg),Post-Tropical Cyclone,Idalia,09-01-2023 22:54,Cangialosi
+26A,09-02-2023 02:00,31.7,64.9,50,999,E at 14 MPH (100 deg),Post-Tropical Cyclone,Idalia,09-02-2023 02:05,Brown
+27,09-02-2023 05:00,31.7,64.6,60,999,E at 6 MPH (90 deg),Post-Tropical Cyclone,Idalia,09-02-2023 04:56,Brown
+27A,09-02-2023 08:00,31.6,64.4,60,999,ESE at 6 MPH (105 deg),Post-Tropical Cyclone,Idalia,09-02-2023 07:59,Berg
+28,09-02-2023 11:00,31.6,63.5,60,999,E at 9 MPH (100 deg),Post-Tropical Cyclone,Idalia,09-02-2023 10:50,Berg
+28A,09-02-2023 14:00,31.6,63.4,60,997,E at 8 MPH (95 deg),Post-Tropical Cyclone,Idalia,09-02-2023 13:54,Berg
+29,09-02-2023 17:00,32,62.7,60,997,ENE at 7 MPH (75 deg),Post-Tropical Cyclone,Idalia,09-02-2023 16:35,Berg
